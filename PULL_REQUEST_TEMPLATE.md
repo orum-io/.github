@@ -16,7 +16,10 @@
   ### Diagrams
   <!-- If a diagram would be more helpful to explain a new flow or change, consider adding that here ->>
   <!-- https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams -->   
-
+  
+  ### Proof of Work
+  <!-- Add a screenshot, curl command, or other items that show reviewers what the outcome of your code changes are --> 
+  
   ### Code Changes
   - [ ] README updated as applicable
  
