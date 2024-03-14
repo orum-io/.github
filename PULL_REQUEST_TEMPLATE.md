@@ -28,7 +28,7 @@
 
 ## Tickets
 <!-- Put any related tickets here -->
-<!-- If the Branch or Commit is using the correct formatting this will be done for you automatically -->
+<!-- If the Branch or Commit is using the correct formatting, this will be done for you automatically -->
 
 ## Gif
 ![]()
